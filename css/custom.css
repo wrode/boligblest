@@ -1,0 +1,8 @@
+hr.star-primary {
+    border-color: #3bb2d0;
+}
+
+hr.star-primary:after {
+    color: #3bb2d0;
+    background-color: #fff;
+}
