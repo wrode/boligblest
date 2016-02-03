@@ -1,3 +1,4 @@
+/*
 hr.star-primary {
     border-color: #3bb2d0;
 }
@@ -5,4 +6,26 @@ hr.star-primary {
 hr.star-primary:after {
     color: #3bb2d0;
     background-color: #fff;
+}
+*/
+
+header {
+    text-align: center;
+    color: #fff;
+    background: #3bb2d0;
+}
+
+hr.star-light:after {
+    color: #fff;
+    background-color: #3bb2d0;
+}
+
+a.active {
+    outline: 0;
+    color: #3bb2d0;
+}
+
+section.success {
+    color: #fff;
+    background: #3bb2d0;
 }
