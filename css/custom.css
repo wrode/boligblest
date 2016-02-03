@@ -46,3 +46,9 @@ header .intro-text .name {
         font-size: 3em;
     }
 }
+
+@media(min-width:768px) {
+    header .container {
+        padding-top: 170px;
+        padding-bottom: 70px;
+    }
