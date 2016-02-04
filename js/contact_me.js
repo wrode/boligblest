@@ -26,11 +26,11 @@ $(function() {
                 data: {
                     name: name,
                     phone: phone,
-                    email: email,
-                    message: message
+                    //email: email,
+                    //message: message
                 },
                 dataType: "json"
-                
+
                 cache: false,
                 success: function() {
                     // Enable button & show success message
